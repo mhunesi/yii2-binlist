@@ -11,6 +11,8 @@
  * @time: 15:51
  */
 
+namespace mhunesi\binlist\validators;
+
 use yii\base\InvalidValueException;
 use yii\validators\Validator;
 use Yii;
